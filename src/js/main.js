@@ -204,7 +204,7 @@ window.addEventListener('DOMContentLoaded', function() {
         daysSum = 0,
         total = 0;
 
-        totalValue.innerHTML = 0;
+    totalValue.innerHTML = 0;
 
     persons.addEventListener("change", function() {
 		personsSum = +this.value;

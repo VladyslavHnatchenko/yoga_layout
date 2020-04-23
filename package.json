@@ -1,0 +1,23 @@
+{
+  "name": "yoga",
+  "version": "1.0.0",
+  "description": "_______________________________________________________________________",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladyslavHnatchenko/yoga_layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyslavHnatchenko/yoga_layout/issues"
+  },
+  "homepage": "https://github.com/VladyslavHnatchenko/yoga_layout#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
